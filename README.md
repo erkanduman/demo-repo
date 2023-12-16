@@ -1,3 +1,3 @@
 # Demo
 
-Project started.
+Project started!
